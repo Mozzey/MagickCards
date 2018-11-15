@@ -1,0 +1,13 @@
+.card-container {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid #000000;
+  margin: 30px 0;
+  width: 25%;
+  text-align: center;
+}
+
+.card-title {
+  background-color: #000000;
+  color: #ffffff;
+}
